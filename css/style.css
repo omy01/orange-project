@@ -1,0 +1,234 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	min-height: 100px;
+	background-color: #FF7200;
+	/*overflow: hidden;*/
+}
+
+.wrapper{
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo{
+	width: 20%;
+	padding-top: 17px;
+	float: left;
+}
+
+.logo img{
+	width: 100%;
+}
+
+.menu{
+	width: 40%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+
+.menu ul{
+	list-style: none;
+	/*float: right;*/
+}
+
+.menu ul li{
+	float: left;
+	display: block;
+}
+
+.menu ul li a{
+	padding: 10px 20px;
+	float: left;
+	color: white;
+	text-decoration: none;
+	transition: .5s
+}
+
+
+.menu ul li a:hover {
+	color: #27BEC5;
+}
+
+.media{
+	width: 20%;
+	float: right;
+	padding-top: 4px;
+}
+
+.media img{
+	width: 50%;
+	float: right;
+	
+}
+
+nav{
+	min-height: 40px;
+	background-color: #ECECEC;
+}
+
+.about h5{
+	padding-top: 10px;
+	padding-left: 20px;
+
+}
+
+.about h5 a{
+	color: #FF7200;
+	font-size: large;
+	text-decoration: none;
+}
+
+#banner{
+	min-height: 400px;
+	background-color: #FFFFFF;
+}
+
+.banner_wrapper{
+	overflow: hidden;
+	width: 90%;
+	margin: 20px auto ;
+	
+}
+
+.main_page{
+	min-height: 320px;
+	width: 42%;
+	float: left;
+	background-color: #27BEC5;
+}
+
+.main_page h1{
+	color: white;
+	padding-left: 30px;
+    padding-top: 40px;
+}
+
+.main_page p{
+	color: white;
+	padding: 33px;
+}
+
+.laptop{
+	width: 55%;
+	float: right;
+	padding-right: 25px;
+}
+
+.laptop img{
+	width: 100%;
+}
+
+#service{
+	min-height: 400px;
+	background-color: #E6E6E6;
+}
+
+.service_wrapper{
+	overflow: hidden;
+	width: 40%;
+	background-color: #F2F2F2;
+	float: left;
+	margin: 60px;
+}
+
+.service_wrapper img{
+	width: 100%;
+}
+
+.w_w_a{
+	width: 50%;
+	padding: 5px;
+}
+
+..w_w_a img{
+	width: 100%;
+}
+
+.text p{
+	margin: 50px;
+}
+
+.button {
+	width: 25%;
+	float: right;
+	padding-right: 15%;
+}
+
+.button img{
+	width: 100%;
+}
+
+#white_bar{
+	min-height: 80px;
+	background-color: #FFFFFF;
+}
+
+#footer{
+	overflow: hidden;
+	background-color: #FF7200;
+}
+
+.footer_wrapper{
+	width: 90%;
+}
+
+.media_logo{
+	width:  10%;
+	float: left;
+	padding-top: 25px;
+}
+
+.media_logo img{
+	width: 100%;
+}
+
+
+
+.manu{
+	width: 40%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+
+.manu ul{
+	list-style: none;
+	/*float: right;*/
+}
+
+.manu ul li{
+	float: left;
+	display: block;
+}
+
+.manu ul li a{
+	padding: 10px 20px;
+	float: left;
+	color: white;
+	text-decoration: none;
+}
+
+.contact{
+	width: 0%;
+	min-height: 50px;
+	float: right;
+}
+
+
+.contact p{
+	color: white;
+	
+}
+
+.last{
+	min-height: 50px;
+	background-color: #E6E6E6;
+}
+
+.last p {
+	padding: 16px 467px;
+}
